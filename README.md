@@ -7,14 +7,14 @@ I Assessed both paid and unpaid reviews to look at the ratios of 5 star reviews 
 
 paid reviews:
 
-![image]()
+![image](https://github.com/mmilner3/Amazon_Vine_Analysis/blob/main/vine%20reviews.PNG)
 
 Paid reviews showed 48% 5 star reviews and 26 4 star reviews 
 
 
 Non paid reviews:
 
-![image]()
+![image](https://github.com/mmilner3/Amazon_Vine_Analysis/blob/main/non%20vine%20reviews.PNG)
 
 unpaid reviews showed 38% 5 star reviews and 16% 4 star reviews 
 
